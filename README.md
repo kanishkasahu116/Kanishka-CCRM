@@ -1,4 +1,4 @@
-# 🎯 CCRM - Student Management System
+# 🎯 CCRM- Student Management System
 
 > **A robust console-based application developed using Java SE to handle student records and course management, featuring advanced Java programming concepts and best practices.**
 
